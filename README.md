@@ -1,6 +1,8 @@
 # hse22_project
-### Таксон: Gammaproteobacteria
+
+### Ссылка на колаб: https://colab.research.google.com/drive/1k6Z5mgrFmKFgd3yLSHpeDSLaV7xlPS8f?usp=sharing
 ## Общая информация:
+### Таксон: Gammaproteobacteria
 ### Genus(es) of 5 selected species
 *Mannheimia bovis* - Вид медленно растущих микобактерий, является возбудителем туберкулёза у крупного рогатого скота. Относится к комплексу M. tuberculosis complex - совокупности видов микобактерий, вызывающих туберкулёз у человека.
 
