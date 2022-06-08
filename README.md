@@ -14,11 +14,12 @@
 # Описание выбранных геномов
 
 |***Species***|***Level***|***Size(Mb)***|***GC%***|***Scaffolds***|***Assembly***|
+|---|---|---|---|---|---|
 |Mannheimia bovis| Chromosome|2,15516|39,8|1|GCF_014541205.1|
 |Mannheimia granulomatis|Chromosome|2,27848|39,8|1|GCF_011455695.1|
 |Mannheimia haemolytica|Chromosome|2,75708|41,1017|2|GCF_002285575.1|
 |Mannheimia ovis| Chromosome|2,1437|39,1|1|GCF_009828705.1|
-|Mannheimia pernigra|  Chromosome|2,26274|39,3358|3|GCF_013378015.1||
+|Mannheimia pernigra|  Chromosome|2,26274|39,3358|3|GCF_013378015.1|
 
 # Анализ аннотированных генов  
 
