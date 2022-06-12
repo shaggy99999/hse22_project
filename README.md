@@ -1,6 +1,6 @@
 # hse22_project
 
-### Ссылка на колаб: https://colab.research.google.com/drive/1k6Z5mgrFmKFgd3yLSHpeDSLaV7xlPS8f?usp=sharing
+### Ссылка на колаб: https://colab.research.google.com/drive/1HSva3Hay8-GavOMM0MfbKEmQbGjIJSrb?usp=sharing
 ## Общая информация:
 ### Таксон: Gammaproteobacteria
 ### Genus(es) of 5 selected species
