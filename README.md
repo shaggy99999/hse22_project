@@ -142,3 +142,56 @@ MERGED_\*.bed файлы лежат в папке *bed and merge*
 61 | pernigra | WP_176807322.1 | flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase | функционально не охарактеризован
 61 | bovis | WP_188156784.1 | flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase | функционально не охарактеризован
 	
+# Множественное белковое выравнивание
+
+Для каждого выбранного кластера было произведено множественное белоковое выравнивание на сайте https://www.ebi.ac.uk/Tools/msa/clustalo/ . В качестве алгоритма для выравнивания был выбран алгоритм ```ClustalW with character counts```. 
+
+Номер кластера | Визуализация
+---|---
+0 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+0 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+0 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+1 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+1 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+1 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+2 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+2 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+2 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+3 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+3 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+3 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+4 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+4 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+4 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+5 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+5 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+5 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+6 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+6 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+6 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+7 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+7 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+7 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+8 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+8 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+8 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+9 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
+9 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
+9 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+
+На каждом рисунке выше отрисован ген из генома, попадающий в соотвествующий кластер. На каждом гене, отрисованы все z-dna с их zh-score. Такая визуализация помогает увидеть где именно находится участок z-dna относительно гена. Каждый ген подписан по следующему принципу: gene + LOCUS(из файла gbff), где LOCUS отвечает за то, к какому геному принадлежит ген. Из визуализации и координат можно заметить, что во многих случаях z-dna попадает на экзон интрон и промоутер, за исключением следующих случаев:
+Номер кластера | Название вида | Куда попадает
+---|---|---
+1 | enriettii | промоутер и интрон
+1 | panamensis | промоутер и интрон
+3	| panamensis | промоутер и интрон
+5	| enriettii | промоутер и интрон
+5	| infantum JPCM5 | промоутер и интрон
+5	| martiniquensis | промоутер и интрон
+5	| panamensis | промоутер и интрон
+6	| panamensis | промоутер и интрон
+7	| donovani | интрон
+7	| enriettii | интрон
+7	| martiniquensis	| На данный ген не попали Z-DNA
+7	| panamensis | промоутер и интрон
+9	| panamensis | промоутер и интрон
