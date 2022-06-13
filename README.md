@@ -56,9 +56,13 @@ pernigra	| 2268	| 2262740 | 1999599	| 88.4
   
   
 ![](https://github.com/shaggy99999/hse22_project/blob/main/pictures/z1.png)
+
 ![](https://github.com/shaggy99999/hse22_project/blob/main/pictures/z2.png)
+
 ![](https://github.com/shaggy99999/hse22_project/blob/main/pictures/z3.png)
+
 ![](https://github.com/shaggy99999/hse22_project/blob/main/pictures/z4.png)
+
 ![](https://github.com/shaggy99999/hse22_project/blob/main/pictures/z5.png)
   
   
@@ -148,36 +152,30 @@ MERGED_\*.bed файлы лежат в папке *bed and merge*
 
 Номер кластера | Визуализация
 ---|---
-0 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-0 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-0 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-1 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-1 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-1 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-2 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-2 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-2 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-3 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-3 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-3 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-4 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-4 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-4 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-5 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-5 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-5 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-6 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-6 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-6 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-7 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-7 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-7 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-8 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-8 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-8 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
-9 |  <img width="359" alt="image" src="https://user-images.githubusercontent.com/60758722/173235549-4c10e256-36b6-48cf-96f9-4cce2f14cdfb.png">
-9 |  <img width="374" alt="image" src="https://user-images.githubusercontent.com/60758722/173235562-9da0487f-6e5e-422a-8e42-77aba07d9a85.png">
-9 |  <img width="380" alt="image" src="https://user-images.githubusercontent.com/60758722/173235544-e81df34e-489d-467e-8254-7fdb560ad950.png">
+0 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl1.1.png">
+0 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl1.2.png">
+0 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl1.3.png">
+1 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl2.1.png">
+1 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl2.2.png">
+1 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl2.3.png">
+2 |  -
+3 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl4.1.png">
+3 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl4.2.png">
+3 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl4.3.png">
+4 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl5.1.png">
+4 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl5.2.png">
+4 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl5.3.png">
+5 |  -
+6 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl7.1.png">
+6 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl7.2.png">
+6 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl7.3.png">
+7 |  -
+8 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl9.1.png">
+8 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl9.2.png">
+8 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl9.3.png">
+9 |  <img width="359" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl10.1.png">
+9 |  <img width="374" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl10.2.png">
+9 |  <img width="380" alt="image" src="https://github.com/shaggy99999/hse22_project/blob/main/pictures/cl10.1.png">
 
 На каждом рисунке выше отрисован ген из генома, попадающий в соотвествующий кластер. На каждом гене, отрисованы все z-dna с их zh-score. Такая визуализация помогает увидеть где именно находится участок z-dna относительно гена. Каждый ген подписан по следующему принципу: gene + LOCUS(из файла gbff), где LOCUS отвечает за то, к какому геному принадлежит ген. Из визуализации и координат можно заметить, что во многих случаях z-dna попадает на экзон интрон и промоутер, за исключением следующих случаев:
 Номер кластера | Название вида | Куда попадает
